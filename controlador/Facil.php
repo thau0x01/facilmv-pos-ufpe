@@ -152,7 +152,7 @@ class Facil {
         foreach (self::$variaveis as $chave => $valor) {
             $$chave = $valor;
         }
-
+        
         // Recuperando a view
         ob_start();
         include $incluir;

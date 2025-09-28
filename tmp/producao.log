@@ -1,0 +1,291 @@
+[13-Jun-2025 19:08:17 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/index.php:2) in /var/www/html/controlador/Facil.php on line 555
+[13-Jun-2025 19:08:17 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:08:17 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:08:17 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:08:17 America/Recife] PHP   3. controlador\Facil::definirRegionalizacao() /var/www/html/controlador/Facil.php:104
+[13-Jun-2025 19:08:17 America/Recife] PHP   4. header() /var/www/html/controlador/Facil.php:555
+[13-Jun-2025 19:08:17 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/index.php:2) in /var/www/html/controlador/Facil.php on line 558
+[13-Jun-2025 19:08:17 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:08:17 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:08:17 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:08:17 America/Recife] PHP   3. controlador\Facil::definirRegionalizacao() /var/www/html/controlador/Facil.php:104
+[13-Jun-2025 19:08:17 America/Recife] PHP   4. header() /var/www/html/controlador/Facil.php:558
+[13-Jun-2025 19:08:17 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/index.php:2) in /var/www/html/controlador/Facil.php on line 559
+[13-Jun-2025 19:08:17 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:08:17 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:08:17 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:08:17 America/Recife] PHP   3. controlador\Facil::definirRegionalizacao() /var/www/html/controlador/Facil.php:104
+[13-Jun-2025 19:08:17 America/Recife] PHP   4. header() /var/www/html/controlador/Facil.php:559
+[13-Jun-2025 19:08:17 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/index.php:2) in /var/www/html/controlador/Facil.php on line 560
+[13-Jun-2025 19:08:17 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:08:17 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:08:17 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:08:17 America/Recife] PHP   3. controlador\Facil::definirRegionalizacao() /var/www/html/controlador/Facil.php:104
+[13-Jun-2025 19:08:17 America/Recife] PHP   4. header() /var/www/html/controlador/Facil.php:560
+[13-Jun-2025 19:08:17 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/index.php:2) in /var/www/html/controlador/Facil.php on line 561
+[13-Jun-2025 19:08:17 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:08:17 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:08:17 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:08:17 America/Recife] PHP   3. controlador\Facil::definirRegionalizacao() /var/www/html/controlador/Facil.php:104
+[13-Jun-2025 19:08:17 America/Recife] PHP   4. header() /var/www/html/controlador/Facil.php:561
+[13-Jun-2025 19:08:17 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/index.php:2) in /var/www/html/controlador/Facil.php on line 178
+[13-Jun-2025 19:08:17 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:08:17 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:08:17 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:08:17 America/Recife] PHP   3. controlador\Facil::enviarCabecalhosGerais() /var/www/html/controlador/Facil.php:106
+[13-Jun-2025 19:08:17 America/Recife] PHP   4. header() /var/www/html/controlador/Facil.php:178
+[13-Jun-2025 19:08:17 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/index.php:2) in /var/www/html/controlador/Facil.php on line 179
+[13-Jun-2025 19:08:17 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:08:17 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:08:17 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:08:17 America/Recife] PHP   3. controlador\Facil::enviarCabecalhosGerais() /var/www/html/controlador/Facil.php:106
+[13-Jun-2025 19:08:17 America/Recife] PHP   4. header() /var/www/html/controlador/Facil.php:179
+[13-Jun-2025 19:08:18 America/Recife] PHP Warning:  Unknown: The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in Unknown on line 0
+[13-Jun-2025 19:08:18 America/Recife] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/html/index.php on line 2
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. session_start() /var/www/html/index.php:2
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant INICIO already defined in /var/www/html/index.php on line 10
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:10
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant PORTAL_ENGAJAMENTO already defined in /var/www/html/index.php on line 16
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant PORTAL_CESTA_BASICA already defined in /var/www/html/index.php on line 17
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant PORTAL_VAN already defined in /var/www/html/index.php on line 18
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant PORTAL_CLIMA already defined in /var/www/html/index.php on line 19
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant PORTAL_CEM already defined in /var/www/html/index.php on line 20
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant PORTAL_AVALIACAO_EXPERIENCIA_ESTAGIO already defined in /var/www/html/index.php on line 21
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant PORTAL_FEEDBACK already defined in /var/www/html/index.php on line 22
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant PIRATESHIP_MAIS already defined in /var/www/html/index.php on line 23
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant TIPO_LOGAR already defined in /var/www/html/index.php on line 25
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant TIPO_CADASTRAR already defined in /var/www/html/index.php on line 26
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant TIPO_ALTERAR already defined in /var/www/html/index.php on line 27
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant TIPO_EXCLUIR already defined in /var/www/html/index.php on line 28
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant DS already defined in /var/www/html/index.php on line 38
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant PS already defined in /var/www/html/index.php on line 42
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant RAIZ already defined in /var/www/html/index.php on line 51
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:51
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant BASE already defined in /var/www/html/index.php on line 58
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:58
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant HOST already defined in /var/www/html/index.php on line 64
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:64
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant CONFIG already defined in /var/www/html/index.php on line 70
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:70
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant CONTROLADOR already defined in /var/www/html/index.php on line 75
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:75
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant LIB already defined in /var/www/html/index.php on line 81
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:81
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant MODELO already defined in /var/www/html/index.php on line 86
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:86
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant TMP already defined in /var/www/html/index.php on line 91
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:91
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant VISAO already defined in /var/www/html/index.php on line 97
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:97
+[13-Jun-2025 19:52:27 America/Recife] PHP Notice:  Constant TEMPLATE already defined in /var/www/html/index.php on line 103
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. define() /var/www/html/index.php:103
+[13-Jun-2025 19:52:27 America/Recife] PHP Fatal error:  Cannot redeclare class config\Autoload in /var/www/html/config/Autoload.php on line 6
+[13-Jun-2025 19:52:27 America/Recife] PHP Stack trace:
+[13-Jun-2025 19:52:27 America/Recife] PHP   1. {main}() /var/www/html/index.php:0
+[13-Jun-2025 19:52:27 America/Recife] PHP   2. controlador\Facil::configurarAmbiente() /var/www/html/index.php:118
+[13-Jun-2025 19:52:27 America/Recife] PHP   3. controlador\Facil::verificarSeArquivoEstatico() /var/www/html/controlador/Facil.php:105
+[13-Jun-2025 19:52:27 America/Recife] PHP   4. include() /var/www/html/controlador/Facil.php:622
+[13-Jun-2025 19:52:27 America/Recife] PHP   5. include() /var/www/html/index.php:110
+[13-Jun-2025 20:56:36 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 20:56:36 America/Recife] PHP Stack trace:
+[13-Jun-2025 20:56:36 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 20:56:36 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 20:56:36 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 20:56:36 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 20:58:38 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 20:58:38 America/Recife] PHP Stack trace:
+[13-Jun-2025 20:58:38 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 20:58:38 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 20:58:38 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 20:58:38 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 21:00:36 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 21:00:36 America/Recife] PHP Stack trace:
+[13-Jun-2025 21:00:36 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 21:00:36 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 21:00:36 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 21:00:36 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 21:00:38 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 21:00:38 America/Recife] PHP Stack trace:
+[13-Jun-2025 21:00:38 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 21:00:38 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 21:00:38 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 21:00:38 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 21:00:40 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 21:00:40 America/Recife] PHP Stack trace:
+[13-Jun-2025 21:00:40 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 21:00:40 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 21:00:40 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 21:00:40 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 21:00:41 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 21:00:41 America/Recife] PHP Stack trace:
+[13-Jun-2025 21:00:41 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 21:00:41 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 21:00:41 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 21:00:41 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 21:01:39 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 21:01:39 America/Recife] PHP Stack trace:
+[13-Jun-2025 21:01:39 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 21:01:39 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 21:01:39 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 21:01:39 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 21:01:41 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 21:01:41 America/Recife] PHP Stack trace:
+[13-Jun-2025 21:01:41 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 21:01:41 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 21:01:41 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 21:01:41 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 21:01:42 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 21:01:42 America/Recife] PHP Stack trace:
+[13-Jun-2025 21:01:42 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 21:01:42 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 21:01:42 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 21:01:42 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 21:01:42 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 21:01:42 America/Recife] PHP Stack trace:
+[13-Jun-2025 21:01:42 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 21:01:42 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 21:01:42 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 21:01:42 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 21:01:52 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 21:01:52 America/Recife] PHP Stack trace:
+[13-Jun-2025 21:01:52 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 21:01:52 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 21:01:52 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 21:01:52 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
+[13-Jun-2025 21:01:54 America/Recife] PHP Notice:  Use of undefined constant BASE_DINAMICA - assumed 'BASE_DINAMICA' in /var/www/html/controlador/Facil.php on line 325
+[13-Jun-2025 21:01:54 America/Recife] PHP Stack trace:
+[13-Jun-2025 21:01:54 America/Recife] PHP   1. controlador\ControleException::capturar($excecao = *uninitialized*) /var/www/html/controlador/ControleException.php:0
+[13-Jun-2025 21:01:54 America/Recife] PHP   2. controlador\Facil::despacharErro($codigoHTTP = *uninitialized*, $depuracao = *uninitialized*) /var/www/html/controlador/ControleException.php:147
+[13-Jun-2025 21:01:54 America/Recife] PHP   3. controlador\Facil::despachar($_view = *uninitialized*, $retornar = *uninitialized*) /var/www/html/controlador/Facil.php:228
+[13-Jun-2025 21:01:54 America/Recife] PHP   4. controlador\Facil::resolverLinksDoControle($entrada = *uninitialized*) /var/www/html/controlador/Facil.php:164
