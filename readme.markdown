@@ -1,3 +1,11 @@
+# Instruções 
+
+```bash
+git clone git@github.com:thau0x01/facilmv-pos-ufpe.git
+cd facilmv-pos-ufpe
+docker compose up -d --build
+```
+
 # O que é o Facil MVC? #
 
 * Um framwork opensource para auxiliar desenvolvedores PHP a iniciar e manter seus projetos Web.
